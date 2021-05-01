@@ -3,7 +3,7 @@ import Marquee from "./components/marquee";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Marquee />
     </div>
   );

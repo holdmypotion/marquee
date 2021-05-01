@@ -5,7 +5,7 @@ import "./marquee.css";
 
 const marqueeVariants = {
   animate: {
-    x: [0, -1035],
+    x: [0, -1036],
     transition: {
       x: {
         repeat: Infinity,
